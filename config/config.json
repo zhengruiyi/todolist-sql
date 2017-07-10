@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ruiyizheng",
+    "password": null,
+    "database": "ruiyizheng",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ruiyizheng",
+    "password": null,
+    "database": "ruiyizheng",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ruiyizheng",
+    "password": null,
+    "database": "ruiyizheng",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
